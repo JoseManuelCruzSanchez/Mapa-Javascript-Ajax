@@ -1,0 +1,33 @@
+#rowDiv {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+input[type="text"] {
+
+    height: 40px;
+    font-size: 20px;
+
+
+}
+#boton{
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+#mostrar{
+
+    margin:auto;
+    width: 60%;
+    text-align: center;
+
+}
+
+#map{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 200px;
+}
